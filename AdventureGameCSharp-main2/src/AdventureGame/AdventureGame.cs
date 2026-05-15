@@ -106,7 +106,7 @@ public class AdventureGame
 
 		dungeon = new Room[rows, cols];
 
-		// Crear rooms primero
+		
 		foreach(string rawLine in lines)
 		{
 			string line = rawLine.Trim();
@@ -117,7 +117,7 @@ public class AdventureGame
 			}
 		}
 
-		// Posiciones especiales
+		
 		foreach(string rawLine in lines)
 		{
 			string line = rawLine.Trim();
@@ -295,7 +295,7 @@ public class AdventureGame
 	{
 		Room r = dungeon[aRow, aCol];
 
-		// Mecánica original del Grue en oscuridad
+		
 		if(!adventurer.HasLamp() && !r.IsLit() && input != lastDirection)
 		{
 			Console.WriteLine("You got eaten alive by the Grue!");
@@ -339,20 +339,20 @@ public class AdventureGame
 
 	private void UpdateGameState()
 	{
-		// Nuevo Grue perseguidor
+		
 		if(isChestOpen)
 		{
 			MoveGrue();
 		}
 
-		// Si Grue alcanza jugador = perder
+		
 		if(aRow == grueRow && aCol == grueCol)
 		{
 			Console.WriteLine("The Grue caught you!");
 			isAdventureAlive = false;
 		}
 
-		// Nueva condición de victoria
+		
 		if(isChestOpen && aRow == exitRow && aCol == exitCol)
 		{
 			Console.WriteLine("You escaped the dungeon with the treasure!");
