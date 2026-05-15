@@ -1,0 +1,14 @@
+/Users/abnersantiago/Documents/TrabajosLuis/data structure/AdventureGameCSharp-main2/src/AdventureGame/bin/Debug/net9.0/AdventureGame
+/Users/abnersantiago/Documents/TrabajosLuis/data structure/AdventureGameCSharp-main2/src/AdventureGame/bin/Debug/net9.0/AdventureGame.deps.json
+/Users/abnersantiago/Documents/TrabajosLuis/data structure/AdventureGameCSharp-main2/src/AdventureGame/bin/Debug/net9.0/AdventureGame.runtimeconfig.json
+/Users/abnersantiago/Documents/TrabajosLuis/data structure/AdventureGameCSharp-main2/src/AdventureGame/bin/Debug/net9.0/AdventureGame.dll
+/Users/abnersantiago/Documents/TrabajosLuis/data structure/AdventureGameCSharp-main2/src/AdventureGame/bin/Debug/net9.0/AdventureGame.pdb
+/Users/abnersantiago/Documents/TrabajosLuis/data structure/AdventureGameCSharp-main2/src/AdventureGame/obj/Debug/net9.0/AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abnersantiago/Documents/TrabajosLuis/data structure/AdventureGameCSharp-main2/src/AdventureGame/obj/Debug/net9.0/AdventureGame.AssemblyInfoInputs.cache
+/Users/abnersantiago/Documents/TrabajosLuis/data structure/AdventureGameCSharp-main2/src/AdventureGame/obj/Debug/net9.0/AdventureGame.AssemblyInfo.cs
+/Users/abnersantiago/Documents/TrabajosLuis/data structure/AdventureGameCSharp-main2/src/AdventureGame/obj/Debug/net9.0/AdventureGame.csproj.CoreCompileInputs.cache
+/Users/abnersantiago/Documents/TrabajosLuis/data structure/AdventureGameCSharp-main2/src/AdventureGame/obj/Debug/net9.0/AdventureGame.dll
+/Users/abnersantiago/Documents/TrabajosLuis/data structure/AdventureGameCSharp-main2/src/AdventureGame/obj/Debug/net9.0/refint/AdventureGame.dll
+/Users/abnersantiago/Documents/TrabajosLuis/data structure/AdventureGameCSharp-main2/src/AdventureGame/obj/Debug/net9.0/AdventureGame.pdb
+/Users/abnersantiago/Documents/TrabajosLuis/data structure/AdventureGameCSharp-main2/src/AdventureGame/obj/Debug/net9.0/AdventureGame.genruntimeconfig.cache
+/Users/abnersantiago/Documents/TrabajosLuis/data structure/AdventureGameCSharp-main2/src/AdventureGame/obj/Debug/net9.0/ref/AdventureGame.dll
